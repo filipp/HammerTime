@@ -1,0 +1,635 @@
+THammerTime
+v7
+r0
+t332259665.107211
+cCheck dependencies
+cProcessInfoPlistFile "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Info.plist" MacHammer_Runtime-Info.plist
+cCopyStringsFile "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/filipp/Code/MacHammer Runtime/English.lproj/MainMenu.xib"
+cCpResource build/Debug/HammerTime.app/Contents/Resources/LICENSE LICENSE
+cProcessPCH /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch.gch MacHammer_Runtime_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/main.o" "/Users/filipp/Code/MacHammer Runtime/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammer_RuntimeAppDelegate.o" "/Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonWriter.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonWriter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonUTF8Stream.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonTokeniser.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterState.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterAccumulator.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriter.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserState.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAdapter.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAccumulator.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParser.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonParser.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonParser.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/NSObject+SBJson.o" "/Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammerViewController.o" "/Users/filipp/Code/MacHammer Runtime/MacHammerViewController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/MacOS/HammerTime" normal x86_64
+cTouch "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/filipp/Code/MacHammer Runtime/English.lproj/InfoPlist.strings
+c000000004E1D4D69000000000000002D
+t1310543209
+s45
+
+N/Users/filipp/Code/MacHammer Runtime/English.lproj/MainMenu.xib
+c000000004E1DA9B4000000000003178C
+t1310566836
+s202636
+
+N/Users/filipp/Code/MacHammer Runtime/LICENSE
+c000000004E1D5D0C00000000000005DA
+t1310547212
+s1498
+
+N/Users/filipp/Code/MacHammer Runtime/MacHammerViewController.h
+c000000004E1DA77500000000000001F3
+t1310566261
+s499
+i<Cocoa/Cocoa.h>
+i"SBJson.h"
+
+N/Users/filipp/Code/MacHammer Runtime/MacHammerViewController.m
+c000000004E1DA8DC00000000000012B9
+t1310566620
+s4793
+i"MacHammerViewController.h"
+
+N/Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.h
+c000000004E1D7010000000000000015E
+t1310552080
+s350
+i<Cocoa/Cocoa.h>
+
+N/Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.m
+c000000004E1D97E8000000000000019B
+t1310562280
+s411
+i"MacHammer_RuntimeAppDelegate.h"
+
+N/Users/filipp/Code/MacHammer Runtime/MacHammer_Runtime_Prefix.pch
+c000000004E1D4D6900000000000000A5
+t1310543209
+s165
+i<Cocoa/Cocoa.h>
+
+N/Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.h
+c000000004E0D84F700000000000008B7
+t1309508855
+s2231
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.m
+c000000004E0D84F700000000000008A6
+t1309508855
+s2214
+i"NSObject+SBJson.h"
+i"SBJsonWriter.h"
+i"SBJsonParser.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJson.h
+c000000004E0D84F70000000000000DA2
+t1309508855
+s3490
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamWriter.h"
+i"NSObject+SBJson.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonParser.h
+c000000004E0D84F70000000000000E0B
+t1309508855
+s3595
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonParser.m
+c000000004E0D84F70000000000000CC0
+t1309508855
+s3264
+i"SBJsonParser.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.h
+c000000004E0D84F70000000000001611
+t1309508855
+s5649
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.m
+c000000004E0D84F70000000000001A21
+t1309508855
+s6689
+i"SBJsonStreamParser.h"
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParserState.h"
+i<limits.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.h
+c000000004E0D84F700000000000006D7
+t1309508855
+s1751
+i<Foundation/Foundation.h>
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.m
+c000000004E0D84F7000000000000079B
+t1309508855
+s1947
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.h
+c000000004E0D84F70000000000001467
+t1309508855
+s5223
+i<Foundation/Foundation.h>
+i"SBJsonStreamParser.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.m
+c000000004E0D84F700000000000011C9
+t1309508855
+s4553
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.h
+c000000004E0D84F70000000000000B10
+t1309508855
+s2832
+i<Foundation/Foundation.h>
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParser.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.m
+c000000004E0D84F70000000000001F6D
+t1309508855
+s8045
+i"SBJsonStreamParserState.h"
+i"SBJsonStreamParser.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.h
+c000000004E0D84F700000000000016CF
+t1309508855
+s5839
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.m
+c000000004E0D84F70000000000002994
+t1309508855
+s10644
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterState.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.h
+c000000004E0D84F700000000000006B2
+t1309508855
+s1714
+i"SBJsonStreamWriter.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.m
+c000000004E0D84F700000000000007EB
+t1309508855
+s2027
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.h
+c000000004E0D84F700000000000009EC
+t1309508855
+s2540
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.m
+c000000004E0D84F70000000000000F61
+t1309508855
+s3937
+i"SBJsonStreamWriterState.h"
+i"SBJsonStreamWriter.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.h
+c000000004E0D84F7000000000000089C
+t1309508855
+s2204
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.m
+c000000004E0D84F7000000000000317A
+t1309508855
+s12666
+i"SBJsonTokeniser.h"
+i"SBJsonUTF8Stream.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.h
+c000000004E0D84F7000000000000082B
+t1309508855
+s2091
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.m
+c000000004E0D84F70000000000000F25
+t1309508855
+s3877
+i"SBJsonUTF8Stream.h"
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonWriter.h
+c000000004E0D84F700000000000010B6
+t1309508855
+s4278
+i<Foundation/Foundation.h>
+
+N/Users/filipp/Code/MacHammer Runtime/SBJsonWriter.m
+c000000004E0D84F70000000000000DBF
+t1309508855
+s3519
+i"SBJsonWriter.h"
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app
+t1310566865
+s102
+
+N/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Info.plist
+t1310566862
+s1293
+
+N/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/MacOS/HammerTime
+t1310566865
+s144088
+
+N/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/PkgInfo
+t1310566862
+s8
+
+N/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1310566862
+s92
+
+N/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/English.lproj/MainMenu.nib
+t1310566862
+s39167
+
+N/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/LICENSE
+t1310566862
+s1498
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/HammerTime.LinkFileList
+c000000004E1DA9CE00000000000007DF
+t1310566862
+s2015
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammerViewController.o
+t1310566865
+s39420
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammer_RuntimeAppDelegate.o
+t1310566862
+s21352
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/NSObject+SBJson.o
+t1310566864
+s9768
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonParser.o
+t1310566864
+s19252
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParser.o
+t1310566864
+s32244
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAccumulator.o
+t1310566864
+s11520
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAdapter.o
+t1310566864
+s29196
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserState.o
+t1310566864
+s53744
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriter.o
+t1310566864
+s49740
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterAccumulator.o
+t1310566864
+s12332
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterState.o
+t1310566863
+s32840
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonTokeniser.o
+t1310566863
+s29204
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonUTF8Stream.o
+t1310566863
+s20892
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonWriter.o
+t1310566863
+s22524
+
+N/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/main.o
+t1310566863
+s4992
+
+N/Users/filipp/Code/MacHammer Runtime/main.m
+c000000004E1D4D69000000000000010C
+t1310543209
+s268
+i<Cocoa/Cocoa.h>
+
+N/var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch.gch
+t1310544384
+s54306576
+
+NMacHammer_Runtime-Info.plist
+c000000004E1D4D6900000000000003EA
+t1310543209
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332259662#332259662#0(0"0(0#1#0"8600269952#0"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammerViewController.o" "/Users/filipp/Code/MacHammer Runtime/MacHammerViewController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259664.858529
+e332259665.048684
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammerViewController.o
+x/Users/filipp/Code/MacHammer Runtime/MacHammerViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/filipp/Code/MacHammer Runtime/MacHammerViewController.m332259664#332259665#0(0"0(0#0#62"/Users/filipp/Code/MacHammer Runtime/MacHammerViewController.m8606380480#1611"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/MacHammerViewController.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammerViewController.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammer_RuntimeAppDelegate.o" "/Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259662.809169
+e332259662.996330
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammer_RuntimeAppDelegate.o
+x/Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.m332259662#332259662#0(0"0(0#0#67"/Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.m8603395904#1621"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/MacHammer_RuntimeAppDelegate.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/MacHammer_RuntimeAppDelegate.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/NSObject+SBJson.o" "/Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259664.808544
+e332259664.992005
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/NSObject+SBJson.o
+x/Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.m332259664#332259664#0(0"0(0#0#54"/Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.m8607071808#1595"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/NSObject+SBJson.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/NSObject+SBJson.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonParser.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonParser.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259664.652606
+e332259664.858414
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonParser.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonParser.m332259664#332259664#0(0"0(0#0#51"/Users/filipp/Code/MacHammer Runtime/SBJsonParser.m8605108448#1589"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonParser.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonParser.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParser.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259664.541608
+e332259664.808436
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParser.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.m332259664#332259664#0(0"0(0#0#57"/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.m8607579648#1601"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParser.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParser.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAccumulator.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259664.413412
+e332259664.652500
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAccumulator.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.m332259664#332259664#0(0"0(0#0#68"/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.m8606016128#1623"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAccumulator.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAccumulator.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAdapter.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259664.280376
+e332259664.541507
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAdapter.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.m332259664#332259664#0(0"0(0#0#64"/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.m8605776256#1615"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserAdapter.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserAdapter.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserState.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259664.163765
+e332259664.413286
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserState.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.m332259664#332259664#0(0"0(0#0#62"/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.m8607519456#1611"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamParserState.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamParserState.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriter.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259663.996932
+e332259664.280266
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriter.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.m332259663#332259664#0(0"0(0#0#57"/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.m8604772512#1601"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriter.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriter.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterAccumulator.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259663.598851
+e332259664.163541
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterAccumulator.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.m332259663#332259664#0(0"0(0#0#68"/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.m8605947680#1623"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterAccumulator.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterAccumulator.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterState.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259663.297184
+e332259663.598743
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterState.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.m332259663#332259663#0(0"0(0#0#62"/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.m8607082752#1611"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonStreamWriterState.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonStreamWriterState.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonTokeniser.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259663.240221
+e332259663.996670
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonTokeniser.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.m332259663#332259663#0(0"0(0#0#54"/Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.m8607757216#1595"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonTokeniser.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonTokeniser.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonUTF8Stream.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259663.032750
+e332259663.297080
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonUTF8Stream.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.m332259663#332259663#0(0"0(0#0#55"/Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.m8605936512#1597"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonUTF8Stream.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonUTF8Stream.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonWriter.o" "/Users/filipp/Code/MacHammer Runtime/SBJsonWriter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259662.996436
+e332259663.240114
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonWriter.o
+x/Users/filipp/Code/MacHammer Runtime/SBJsonWriter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/filipp/Code/MacHammer Runtime/SBJsonWriter.m332259662#332259663#0(0"0(0#0#51"/Users/filipp/Code/MacHammer Runtime/SBJsonWriter.m8606427040#1589"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/SBJsonWriter.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/SBJsonWriter.o"0#
+
+CCompileC "build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/main.o" "/Users/filipp/Code/MacHammer Runtime/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332259662.807480
+e332259663.032643
+r1
+xCompileC
+xbuild/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/main.o
+x/Users/filipp/Code/MacHammer Runtime/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/filipp/Code/MacHammer Runtime/main.m332259662#332259663#0(0"0(0#0#43"/Users/filipp/Code/MacHammer Runtime/main.m8604558112#1573"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-generated-files.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-own-target-headers.hmap" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-all-target-headers.hmap" -iquote "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/HammerTime-project-headers.hmap" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" "-I/Users/filipp/Code/MacHammer Runtime/build/Debug/include" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources/x86_64" "-I/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/DerivedSources" -include /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch -c "/Users/filipp/Code/MacHammer Runtime/main.m" -o "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/filipp/Code/MacHammer Runtime/English.lproj/MainMenu.xib"
+s332259662.248298
+e332259662.723701
+r1
+xCompileXIB
+x/Users/filipp/Code/MacHammer Runtime/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib332259662#332259662#0(0"0(0#0#63"/Users/filipp/Code/MacHammer Runtime/English.lproj/MainMenu.xib8605903680#367"    cd "/Users/filipp/Code/MacHammer Runtime"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/filipp/Code/MacHammer Runtime/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s332259662.247378
+e332259662.807167
+r1
+xCopyStringsFile
+x/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings332259662#332259662#0(0"0(0#0#68"/Users/filipp/Code/MacHammer Runtime/English.lproj/InfoPlist.strings8596220704#368"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources/English.lproj"0#
+
+CCpResource build/Debug/HammerTime.app/Contents/Resources/LICENSE LICENSE
+s332259662.723788
+e332259662.747629
+r1
+xCpResource
+xbuild/Debug/HammerTime.app/Contents/Resources/LICENSE
+xLICENSE
+lSLF07#2@12"Copy LICENSE332259662#332259662#0(0"0(0#0#44"/Users/filipp/Code/MacHammer Runtime/LICENSE8605410016#340"    cd "/Users/filipp/Code/MacHammer Runtime"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/filipp/Code/MacHammer Runtime/LICENSE" "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Resources"0#
+
+CLd "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/MacOS/HammerTime" normal x86_64
+s332259665.048783
+e332259665.103667
+r1
+xLd
+x/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/MacOS/HammerTime
+xnormal
+xx86_64
+lSLF07#2@94"Link /Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/MacOS/HammerTime332259665#332259665#0(0"0(0#0#0"8604563296#564"    cd "/Users/filipp/Code/MacHammer Runtime"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/filipp/Code/MacHammer Runtime/build/Debug" "-F/Users/filipp/Code/MacHammer Runtime/build/Debug" -filelist "/Users/filipp/Code/MacHammer Runtime/build/MacHammer Runtime.build/Debug/HammerTime.build/Objects-normal/x86_64/HammerTime.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/MacOS/HammerTime"0#
+
+CProcessInfoPlistFile "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Info.plist" MacHammer_Runtime-Info.plist
+s332259662.242372
+e332259662.247288
+r1
+xProcessInfoPlistFile
+x/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Info.plist
+xMacHammer_Runtime-Info.plist
+lSLF07#2@36"Process MacHammer_Runtime-Info.plist332259662#332259662#0(0"0(0#0#65"/Users/filipp/Code/MacHammer Runtime/MacHammer_Runtime-Info.plist8604341120#326"    cd "/Users/filipp/Code/MacHammer Runtime"    builtin-infoPlistUtility MacHammer_Runtime-Info.plist -genpkginfo "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/KY/KYwhLH0VFs0U42CaTNfMU++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MacHammer_Runtime_Prefix-ckbstglapmzsibfovladbrfnoson/MacHammer_Runtime_Prefix.pch.gch MacHammer_Runtime_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app"
+s332259665.103760
+e332259665.107169
+r1
+xTouch
+x/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app
+lSLF07#2@69"Touch /Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app332259665#332259665#0(0"0(0#0#0"8603622432#134"    cd "/Users/filipp/Code/MacHammer Runtime"    /usr/bin/touch -c "/Users/filipp/Code/MacHammer Runtime/build/Debug/HammerTime.app"0#
+

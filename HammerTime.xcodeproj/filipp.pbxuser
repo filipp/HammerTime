@@ -1,0 +1,253 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* MacHammer_RuntimeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 653}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 350}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* MacHammer_RuntimeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 653}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 411}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C2D944F613CD84E9008D2B7E /* HammerTime */;
+		activeTarget = 8D1107260486CEB800E47090 /* HammerTime */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* HammerTime */,
+		);
+		codeSenseManager = C2D9450913CD8500008D2B7E /* Code sense */;
+		executables = (
+			C2D944F613CD84E9008D2B7E /* HammerTime */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					600,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332259384;
+			PBXWorkspaceStateSaveDate = 332259384;
+		};
+		perUserProjectItems = {
+			C24A4F5D13CDE43B00F81DB2 /* PBXTextBookmark */ = C24A4F5D13CDE43B00F81DB2 /* PBXTextBookmark */;
+			C2D945B013CDA7A7008D2B7E /* PBXTextBookmark */ = C2D945B013CDA7A7008D2B7E /* PBXTextBookmark */;
+			C2D945B113CDA7A7008D2B7E /* PBXTextBookmark */ = C2D945B113CDA7A7008D2B7E /* PBXTextBookmark */;
+			C2D945B213CDA7A7008D2B7E /* PBXTextBookmark */ = C2D945B213CDA7A7008D2B7E /* PBXTextBookmark */;
+			C2D9461B13CDC4FE008D2B7E /* PBXTextBookmark */ = C2D9461B13CDC4FE008D2B7E /* PBXTextBookmark */;
+			C2D946ED13CDDB74008D2B7E /* PBXTextBookmark */ = C2D946ED13CDDB74008D2B7E /* PBXTextBookmark */;
+			C2D946EE13CDDB74008D2B7E /* PBXTextBookmark */ = C2D946EE13CDDB74008D2B7E /* PBXTextBookmark */;
+			C2D9474113CDDF18008D2B7E /* PBXTextBookmark */ = C2D9474113CDDF18008D2B7E /* PBXTextBookmark */;
+			C2D9476213CDE012008D2B7E /* PBXTextBookmark */ = C2D9476213CDE012008D2B7E /* PBXTextBookmark */;
+		};
+		sourceControlManager = C2D9450813CD8500008D2B7E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* HammerTime */ = {
+		activeExec = 0;
+		executables = (
+			C2D944F613CD84E9008D2B7E /* HammerTime */,
+		);
+	};
+	C24A4F5D13CDE43B00F81DB2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C2D9454713CD8C7D008D2B7E /* MacHammerViewController.m */;
+		name = "MacHammerViewController.m: 81";
+		rLen = 0;
+		rLoc = 2341;
+		rType = 0;
+		vrLen = 1569;
+		vrLoc = 1704;
+	};
+	C2D944F613CD84E9008D2B7E /* HammerTime */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HammerTime;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	C2D9450813CD8500008D2B7E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C2D9450913CD8500008D2B7E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C2D9450A13CD895A008D2B7E /* SBJsonWriter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {718, 1404}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2071}";
+		};
+	};
+	C2D9450D13CD895A008D2B7E /* SBJsonUTF8Stream.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 784}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2091}";
+		};
+	};
+	C2D9451A13CD895A008D2B7E /* SBJsonStreamParserAccumulator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 784}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1947}";
+		};
+	};
+	C2D9454613CD8C7D008D2B7E /* MacHammerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 653}}";
+			sepNavSelRange = "{453, 0}";
+			sepNavVisRange = "{0, 499}";
+		};
+	};
+	C2D9454713CD8C7D008D2B7E /* MacHammerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 2119}}";
+			sepNavSelRange = "{2341, 0}";
+			sepNavVisRange = "{1704, 1569}";
+		};
+	};
+	C2D9456D13CD93AE008D2B7E /* LICENSE */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {769, 784}}";
+			sepNavSelRange = "{1498, 0}";
+			sepNavVisRange = "{0, 1498}";
+		};
+	};
+	C2D945B013CDA7A7008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C2D9450A13CD895A008D2B7E /* SBJsonWriter.m */;
+		name = "SBJsonWriter.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2071;
+		vrLoc = 0;
+	};
+	C2D945B113CDA7A7008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C2D9456D13CD93AE008D2B7E /* LICENSE */;
+		name = "LICENSE: 26";
+		rLen = 0;
+		rLoc = 1498;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 0;
+	};
+	C2D945B213CDA7A7008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C2D9451A13CD895A008D2B7E /* SBJsonStreamParserAccumulator.m */;
+		name = "SBJsonStreamParserAccumulator.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1947;
+		vrLoc = 0;
+	};
+	C2D9461B13CDC4FE008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C2D9450D13CD895A008D2B7E /* SBJsonUTF8Stream.h */;
+		name = "SBJsonUTF8Stream.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2091;
+		vrLoc = 0;
+	};
+	C2D946ED13CDDB74008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* MacHammer_RuntimeAppDelegate.h */;
+		name = "MacHammer_RuntimeAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	C2D946EE13CDDB74008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* MacHammer_RuntimeAppDelegate.m */;
+		name = "MacHammer_RuntimeAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	C2D9474113CDDF18008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C2D9454613CD8C7D008D2B7E /* MacHammerViewController.h */;
+		name = "MacHammerViewController.h: 20";
+		rLen = 0;
+		rLoc = 453;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	C2D9476213CDE012008D2B7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C2D9454713CD8C7D008D2B7E /* MacHammerViewController.m */;
+		name = "MacHammerViewController.m: 102";
+		rLen = 0;
+		rLoc = 3008;
+		rType = 0;
+		vrLen = 1801;
+		vrLoc = 1838;
+	};
+}

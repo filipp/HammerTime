@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MacHammer Runtime' target in the 'MacHammer Runtime' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
